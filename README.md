@@ -1,7 +1,7 @@
 # CindyJS web site
 
 This repository contains the sources from which
-[the CindyJS web site](http://cindyjs.org/) is built.
+[the CindyJS web site](http://cindyjs.org/) is been developed.
 If there is something wrong with the content on that web site,
 feel free to
 [file an issue with this repository](https://github.com/CindyJS/website/issues),
