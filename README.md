@@ -13,13 +13,13 @@ Note that most pages will come with an edit link in the bottom right corner.
 In order to download the website clone the repository with
 `git clone git@github.com:CindyJS/website.git`
 
-Then enter the just downloaded folder `website` and install all dependencies with
+Then enter the just downloaded folder named as `website` and install all dependencies with
 
 `git submodule update --init .`
 
 `npm install`
 
-In oder to set up the local web-server for the website run
+In order to set up the local web-server for the website run
 
 `npm start`
 
